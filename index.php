@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello World!!! local sync";
+echo "Hello World !!!";
 ?>
